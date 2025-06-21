@@ -1,4 +1,4 @@
-const SESSION_ID = ""
+const SESSION_ID = "SADIYA-MD=715CwbCY#fQk6M66iW4uKbwazENDsGdPEtr6RinORx4_YsMwMrZM"
 const BOT_NUMBER = ""
 const GITHUB_AUTH_TOKEN = ""
 
